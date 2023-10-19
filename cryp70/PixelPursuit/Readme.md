@@ -1,0 +1,1 @@
+La stéganographie est l'art de cacher un message ou une information à l'intérieur d'une autre. Les informations cachées doivent rester indétectables. Mais tu es un hacker, trouve le secret de cette image !

@@ -1,0 +1,8 @@
+Base64 est une méthode pour encoder des données binaires en chaînes de caractères ASCII. Il est couramment utilisé pour transférer des données sur le Web.
+
+Flag : EPI{DoubleBase64Encode}
+
+
+chall : 
+
+QmFzZTY0IGVzdCB1bmUgbel0aG9kZSBwb3VyIGVuY29kZXIgZGVzIGRvbm7pZXMgYmluYWlyZXMgZW4gY2hh7m5lcyBkZSBjYXJhY3TocmVzIEFTQ0lJLiBJbCBlc3QgY291cmFtbWVudCB1dGlsaXPpIHBvdXIgdHJhbnNm6XJlciBkZXMgZG9ubullcyBzdXIgbGUgV2ViLiBGbGFnIDogRVBJe0RvdWJsZUJhc2U2NEVuY29kZX0=
